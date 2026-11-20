@@ -1,26 +1,27 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1400&color=A78BFA&center=true&vCenter=true&width=440&height=28&lines=hey,+I'm+Vishal;Founder+%26+CEO+%40+SkyRain+Cloud;network+engineer+%2F+OSINT+analyst;probably+automating+something+rn" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1400&color=7DD3FC&center=true&vCenter=true&width=500&height=28&lines=Vishal+here+%E2%80%94+builder,+breaker,+automator;Founder+%26+CEO+%40+SkyRain+Cloud;network+engineer+%2F+OSINT+analyst;I+automate+things,+sit+back,+and+enjoy+seeing+them+work" alt="typing" />
 
 </div>
 
 ### About
 
 - **Founder & CEO @ [SkyRain Cloud](https://skyraincloud.in)** — VPS, game hosting, dedicated servers, Windows RDP and web hosting
-- Self-taught developer who loves to build things and automate everything
+- Self-taught developer — I mostly build things when I need them
+- Definitely a guy obsessed with automation — I automate things, sit back, and enjoy seeing them work
 - Architecting cloud infrastructure, virtualization platforms and automated server deployments
-- Network engineer — routing, tunneling, traffic setup and DDoS mitigation
+- Network engineer — routing, tunneling, firewalls, traffic setup and DDoS mitigation
 - OSINT analyst
-- Bug hunting in my free time, and running security audits on vibe-coded apps just to see what breaks
+- Bug hunting and security audits in my free time
 - Contributing to open source when something catches my eye
 
 ### Development
 
-<img src="https://skillicons.dev/icons?i=go,php,python,nodejs,react,bash&theme=dark" alt="dev" />
+<img src="https://skillicons.dev/icons?i=go,php,python,nodejs,react&theme=dark" alt="dev" />
 
 ### Cloud & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,kubernetes,nginx,cloudflare,aws,gcp,azure,git,githubactions&theme=dark" alt="infra" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,nginx,cloudflare,aws,gcp,azure,git&theme=dark" alt="infra" />
 
 <br/>
 
@@ -38,14 +39,13 @@
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-0A66C2?style=for-the-badge)
 ![BGP](https://img.shields.io/badge/BGP-0A66C2?style=for-the-badge)
-![VLAN](https://img.shields.io/badge/VLAN-0A66C2?style=for-the-badge)
 ![DNS](https://img.shields.io/badge/DNS-0A66C2?style=for-the-badge)
 ![IPv6](https://img.shields.io/badge/IPv6-0A66C2?style=for-the-badge)
 ![GRE](https://img.shields.io/badge/GRE_%2F_IPIP_Tunnels-0A66C2?style=for-the-badge)
 ![iptables](https://img.shields.io/badge/iptables_%2F_nftables-0A66C2?style=for-the-badge)
 ![XDP](https://img.shields.io/badge/eBPF_%2F_XDP-0A66C2?style=for-the-badge)
-![Load Balancing](https://img.shields.io/badge/Load_Balancing-0A66C2?style=for-the-badge)
 ![Reverse Proxy](https://img.shields.io/badge/Reverse_Proxy-0A66C2?style=for-the-badge)
 ![DDoS](https://img.shields.io/badge/DDoS_Mitigation-0A66C2?style=for-the-badge)
 
@@ -61,6 +61,6 @@
 
 <div align="center">
 
-[SkyRain Cloud](https://skyraincloud.in) · [GitHub](https://github.com/VishalBytez)
+[SkyRain Cloud](https://skyraincloud.in) · [LinkedIn](https://in.linkedin.com/in/vishal-gg-8a1466389) · [GitHub](https://github.com/VishalBytez)
 
 </div>
